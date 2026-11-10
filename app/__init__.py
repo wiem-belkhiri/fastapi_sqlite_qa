@@ -1,0 +1,1 @@
+"""FastAPI SQLite starter app."""
