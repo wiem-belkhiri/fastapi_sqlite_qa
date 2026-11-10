@@ -1,5 +1,6 @@
 # FastAPI + SQLite for QA SQL Practice
 
+
 This project is a light and fast starter for practicing SQL syntax and API testing without a complex setup.
 
 ## Stack
