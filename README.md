@@ -45,4 +45,3 @@ pytest -q
 - UPDATE users SET email = 'new@email.com' WHERE id = 1;
 - DELETE FROM posts WHERE id = 1;
 
-This is a good base for a QA backend portfolio project.
